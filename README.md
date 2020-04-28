@@ -9,7 +9,7 @@ Start the PokerStatistik.exe file
 
 # Step 2:
 Select the mode 
-Mode 1 generates a file where one game is one row
+Mode 1 generates a file where one game is one row. 
 Mode 2 generates a file where one player is one row
 
 # Step 3:
